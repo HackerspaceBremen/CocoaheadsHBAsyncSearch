@@ -13,8 +13,8 @@ Three screens of the app in action.
 
 ## Features
 
-* displays async search done using Grand Central Dispatch calls
-* displays async search done using NSOperations
+* displays async search done using **Grand Central Dispatch calls**
+* displays async search done using **NSOperations**
 * searches the holy bible text live while typing in textfield
 
 ## Installation
@@ -33,4 +33,5 @@ All code is published under public domain, thus free.
 ## Attribution
 
 * The code was put together by **Helge Städtler** and **Alexander Repty** from CocoaHeads Bremen
-* You con meet us here at [Hackerspace bremen e.V.](https://www.hackerspace-bremen.de/) each 3rd Monday of the month, come by and join a bunch of iOS & OS X geeks
+* You can meet us here at [Hackerspace Bremen e.V.](https://www.hackerspace-bremen.de/) each 3rd Monday of the month, come by and join a bunch of iOS & OS X geeks, see also [CocoaHeads Bremen](http://cocoaheads.org:8106/de/Bremen/index.html) for more info
+* Contact **Helge** [@noxymo](https://twitter.com/noxymo) and **Alex** at [@arepty](https://twitter.com/arepty) on Twitter
