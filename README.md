@@ -9,7 +9,7 @@ This project was the result of a discussion in **CocoaHeads Bremen**.
 
 Three screens of the app in action.
 
-![image](//screenshot_animation.gif)
+![image](https://github.com/HackerspaceBremen/CocoaheadsHBAsyncSearch/blob/master/screenshot_animation.gif?raw=true)
 
 ## Features
 
